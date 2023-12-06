@@ -1,0 +1,14 @@
+S:\AdventOfCode\2023\day1\DayOneAOC\bin\Debug\net8.0\DayOneAOC.exe
+S:\AdventOfCode\2023\day1\DayOneAOC\bin\Debug\net8.0\DayOneAOC.deps.json
+S:\AdventOfCode\2023\day1\DayOneAOC\bin\Debug\net8.0\DayOneAOC.runtimeconfig.json
+S:\AdventOfCode\2023\day1\DayOneAOC\bin\Debug\net8.0\DayOneAOC.dll
+S:\AdventOfCode\2023\day1\DayOneAOC\bin\Debug\net8.0\DayOneAOC.pdb
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.GeneratedMSBuildEditorConfig.editorconfig
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.AssemblyInfoInputs.cache
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.AssemblyInfo.cs
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.csproj.CoreCompileInputs.cache
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.dll
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\refint\DayOneAOC.dll
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.pdb
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\DayOneAOC.genruntimeconfig.cache
+S:\AdventOfCode\2023\day1\DayOneAOC\obj\Debug\net8.0\ref\DayOneAOC.dll
